@@ -1,0 +1,9 @@
+0	Cloth	Dude	듀드	1	FALSE
+1	Cloth	Frog	개구리	1	FALSE
+2	Cloth	PinkMan	핑크맨	1	FALSE
+3	Cloth	Virtual Guy	버츄얼가이	1	FALSE
+4	Hat	JumpCount	시작시 10회 JumpCount 	1	FALSE
+5	Hat	Undead	죽으면 1회 부활	1	FALSE
+6	Hat	Charge	시작시  돌진	1	FALSE
+7	Hat	EternalJump	시작시 무한 점프	1	FALSE
+8	Hat	JumpPack	시작시  큰 점프	1	FALSE

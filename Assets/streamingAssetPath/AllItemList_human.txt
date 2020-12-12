@@ -1,0 +1,25 @@
+0	Cloth	Dude	듀드	1	FALSE
+1	Cloth	Frog	개구리	1	FALSE
+2	Cloth	PinkMan	핑크맨	1	FALSE
+3	Cloth	Virtual Guy	버츄얼가이	1	FALSE
+4	Hat	JumpCount	시작시 10회 점프 횟수	1	FALSE
+5	Hat	Undead	사망시 1회 부활	1	FALSE
+6	Hat	Charge	시작시  돌진	1	FALSE
+7	Hat	EternalJump	시작시 무한 점프	1	FALSE
+8	Hat	JumpPack	시작시  큰 점프	1	FALSE
+9	Attribute	UnBeatTime	무적시간 증가 	1	FALSE
+10	Attribute	CutLine	목표 점수 하락	1	FALSE
+11	Attribute	SkyFly	체공시간 증가	1	FALSE
+12	Attribute	 Undead	부활시 체력 증가	1	FALSE
+13	Attribute	MoreHP	MAXHP량 증가	1	FALSE
+14	Attribute	Charge	돌진 시간 증가	1	FALSE
+15	Attribute	JumpPack	점프팩 점프량 증가	1	FALSE
+16	Attribute	DoubleJump	점프 횟수 증가	1	FALSE
+17	Item	Apple	점프 횟수 증가	1	FALSE
+18	Item	Bannas	부스트	1	FALSE
+19	Item	Cherries	점프팩	1	FALSE
+20	Item	Kiwi	소소한 체력증가	1	FALSE
+21	Item	Orange	대단한 체력 증가 	1	FALSE
+22	Item	Pineapple	일시적으로 무적	1	FALSE
+23	Item	Strawberry	즉시 위로 점프	1	FALSE
+24	Item	WaterMelon	골드획득	1	FALSE

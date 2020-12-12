@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: ccf38ce32f320054dba3db67883ada21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4852411078733820655
+    second: Monster Orc basic _0
+  - first:
+      213: -7052215112947535112
+    second: Monster Orc basic _1
+  - first:
+      213: 6209931101220849366
+    second: Monster Orc basic _2
+  - first:
+      213: -6117753741692234724
+    second: Monster Orc basic _3
+  - first:
+      213: -4817802098562408236
+    second: Monster Orc basic _4
+  - first:
+      213: -4436000991889503633
+    second: Monster Orc basic _5
+  - first:
+      213: 7260905258341960815
+    second: Monster Orc basic _6
+  - first:
+      213: 6448091997758779194
+    second: Monster Orc basic _7
+  - first:
+      213: -8132615764016134340
+    second: Monster Orc basic _8
+  - first:
+      213: 2077953059944793503
+    second: Monster Orc basic _9
+  - first:
+      213: 6744331926552941798
+    second: Monster Orc basic _10
+  - first:
+      213: 3346795610285601631
+    second: Monster Orc basic _11
+  - first:
+      213: -6856555832835745955
+    second: Monster Orc basic _12
+  - first:
+      213: -8951915277444327532
+    second: Monster Orc basic _13
+  - first:
+      213: 3904178967538398333
+    second: Monster Orc basic _14
+  - first:
+      213: -7070284097779931322
+    second: Monster Orc basic _15
+  - first:
+      213: 8947694514072687192
+    second: Monster Orc basic _16
+  - first:
+      213: 9089383419605094467
+    second: Monster Orc basic _17
+  - first:
+      213: -4189018665569248784
+    second: Monster Orc basic _18
+  - first:
+      213: -903105012529120386
+    second: Monster Orc basic _19
+  - first:
+      213: -4087321686120435469
+    second: Monster Orc basic _20
+  - first:
+      213: 1577020126089998958
+    second: Monster Orc basic _21
+  - first:
+      213: 5857581126410206869
+    second: Monster Orc basic _22
+  - first:
+      213: -1959175723317784284
+    second: Monster Orc basic _23
+  - first:
+      213: -5087931289202864998
+    second: Monster Orc basic _24
+  - first:
+      213: 2451722065835592355
+    second: Monster Orc basic _25
+  - first:
+      213: -7697546487857558557
+    second: Monster Orc basic _26
+  - first:
+      213: -322413518458379861
+    second: Monster Orc basic _27
+  - first:
+      213: 8007651310218247654
+    second: Monster Orc basic _28
+  - first:
+      213: -438829204099644102
+    second: Monster Orc basic _29
+  - first:
+      213: 1908168739543960167
+    second: Monster Orc basic _30
+  - first:
+      213: -1764942080282345639
+    second: Monster Orc basic _31
+  - first:
+      213: -9220686461255112315
+    second: Monster Orc basic _32
+  - first:
+      213: 5772412813894501296
+    second: Monster Orc basic _33
+  - first:
+      213: 4070832973281891882
+    second: Monster Orc basic _34
+  - first:
+      213: -8926436579970711645
+    second: Monster Orc basic _35
+  - first:
+      213: -5879501261011053183
+    second: Monster Orc basic _36
+  - first:
+      213: 6479814169760939508
+    second: Monster Orc basic _37
+  - first:
+      213: 8264275455185967393
+    second: Monster Orc basic _38
+  - first:
+      213: -5462091242272408159
+    second: Monster Orc basic _39
+  - first:
+      213: -6081089297676760447
+    second: Monster Orc basic _40
+  - first:
+      213: -2696311275786157174
+    second: Monster Orc basic _41
+  - first:
+      213: 3879810844980917621
+    second: Monster Orc basic _42
+  - first:
+      213: -125882194531476509
+    second: Monster Orc basic _43
+  - first:
+      213: -3065217049238805786
+    second: Monster Orc basic _44
+  - first:
+      213: 3436322441552704900
+    second: Monster Orc basic _45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster Orc basic _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02bda45bf0cb6e43ab3cd2947ecb2f5
+      internalID: -4852411078733820655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90103208b72739498faf46ad5d34f04
+      internalID: -7052215112947535112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76611ee922c31404abd652dcfabc07f4
+      internalID: 6209931101220849366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c9b5df3f3e4c4caf4d57c148a31d3
+      internalID: -6117753741692234724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489fdabfb05f9fd4eabb841aac06f7c0
+      internalID: -4817802098562408236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7fb2e8b8a4f8e46af381830f97bf98
+      internalID: -4436000991889503633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e39d0989e83434dabef9bbdc0c19fd
+      internalID: 7260905258341960815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329edace80a5d094fa6ffd4f402aa95d
+      internalID: 6448091997758779194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4280257d0510d8c4ea2ad6cb9453f2dc
+      internalID: -8132615764016134340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0a6546c36f26f478c5e5aa3861cded
+      internalID: 2077953059944793503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4035734e608fdb94980bca32b5e755e9
+      internalID: 6744331926552941798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483e62d6739dd8840abc4aac4a005a1f
+      internalID: 3346795610285601631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23d06e9ca5770540a4731760d900439
+      internalID: -6856555832835745955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6477c235503cc44abfc1c3a08219bf
+      internalID: -8951915277444327532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55017840011ae348abc3d2bdca8ad37
+      internalID: 3904178967538398333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85adb509d366f44191df5b84cec95d2
+      internalID: -7070284097779931322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d12def26be834429517c698c0d1414
+      internalID: 8947694514072687192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Orc basic _17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23c0b711467e5247a1424828e203ef2
+      internalID: 9089383419605094467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

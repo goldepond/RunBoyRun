@@ -1,0 +1,1 @@
+{"BackgroundSound":0.41785714,"ClickSound":0.5214286}

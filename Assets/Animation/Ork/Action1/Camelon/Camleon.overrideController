@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Camleon
+  m_Controller: {fileID: 9100000, guid: 517e277b714e6974fa6922fa78228cb4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: dc6b26d0720ebe847bf9cb5db75ebcc9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 83716f168fe6f2643be6f3244cdf16b8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 992c9c678a8039547ad918946cee788c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3988dfe95fb115e48bad47e232d95e99, type: 2}

@@ -1,0 +1,16 @@
+Attribute	UnBeatTime	무적시간 증가 	1	FALSE
+Attribute	CutLine	목표 점수 하락	1	FALSE
+Attribute	SkyFly	체공시간 증가	1	FALSE
+Attribute	 Undead	부활시 체력 증가	1	FALSE
+Attribute	MoreHP	HP량 증가	1	FALSE
+Attribute	Charge	 돌진 시간 증가	1	FALSE
+Attribute	JumpPack	JumpPack 점프량 증가	1	FALSE
+Attribute	DoubleJump	JumpCount 	1	FALSE
+Item	Apple	점프 횟수 증가	1	FALSE
+Item	Bannas	부스트	1	FALSE
+Item	Cherries	무한 점프 시간 증가	1	FALSE
+Item	Kiwi	소소한 체력증가	1	FALSE
+Item	Orange	대단한 체력 증가 	1	FALSE
+Item	Pineapple	무적	1	FALSE
+Item	Strawberry	즉시 점프	1	FALSE
+Item	WaterMelon	골드획득	1	FALSE

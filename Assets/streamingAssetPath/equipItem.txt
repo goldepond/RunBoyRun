@@ -1,0 +1,1 @@
+{"charHat":6,"charCloth":0}
